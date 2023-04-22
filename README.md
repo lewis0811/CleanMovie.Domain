@@ -1,4 +1,4 @@
-## CLEAN ARCHITECTURE DESIGN
+## CLEAN ARCHITECTURE PATTERN
 
 # Infrastructure:
 - Class:

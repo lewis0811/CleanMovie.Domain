@@ -29,3 +29,8 @@
 - Controllers
 	+ CategoryController
 	+ MovieController
+
+# API Demo
+![Get Category](CleanMovie.Domain/Pictures/Pictures/GetCategory.png?raw=true)
+![Get Movie](CleanMovie.Domain/Pictures/GetMovie.png?raw=true)
+![Add Movie](CleanMovie.Domain/Pictures/AddMovie.png?raw=true)
